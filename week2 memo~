@@ -55,7 +55,7 @@ biocLite(c("GenomicFeatures","AnnotationDbi")
 
 
 
-library(ggplots2) load the library
+library(ggplots) load the library
 search() all the function that part of the package
 
 

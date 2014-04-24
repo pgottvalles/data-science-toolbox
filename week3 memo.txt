@@ -1,0 +1,53 @@
+type of questions:
+descriptive
+
+explanatory
+data analysis
+to discover: new connection. correlation, corelation is not causation
+
+inferential
+goal of statiscal model
+population sampling
+
+Predictive
+use data on some object too predect the values for another objects
+if x predict y it not thta x causes y
+very hard
+more data and simple model works well
+
+Causual
+find what happen to one variable if you change another variable
+casual relation are average effect and may not affect every individuals
+gold standard for data analyst
+
+
+
+Mechanistic
+very hard
+works well usuall for engineer science and physics
+radom part is the error measurement
+
+
+data
+set of values of quantitative or qualitative variable belonging to a set of items (population)
+
+data can be naything: text file, medical report, structure/unstructure data, sound, video, web site.
+
+data is second most important thing. the most important thing is the questions
+
+
+
+
+
+big data?
+depends on people
+only a small fraction of data can be used to answer the question you have
+hadoop? no need the data you need is not that big=> Just use the right data.
+
+
+Experimental design
+
+
+
+
+
