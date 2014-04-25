@@ -47,7 +47,33 @@ hadoop? no need the data you need is not that big=> Just use the right data.
 
 Experimental design
 
+important because if something goes wrong then you could be sude for your bad research.
+
+know and care about the analysis plan
+have a plan for data and code sharing (github if larger space id needed then fishare)
+for data sharing refre to repo datasharing
+
+specify carefully and in advance your your question
 
 
+you should share evrything publically
 
+
+to avoid confounding
+-fix a variable
+-if you don't want: stratify it
+-if not possible randomize it
+
+predeiction vs inference
+your population need to have weel differed guauss curve (distribution)
+
+as a summary
+-good experiment
+   -have replication
+   -measure variability
+   -generalize to the problem you care about
+   -are transparent
+-prediction is not inference
+   -both can be important
+-beware data dredging
 
